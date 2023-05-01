@@ -1,5 +1,5 @@
-# import sys
-# sys.path.insert(0, 'vendor')
+import sys
+sys.path.insert(0, 'vendor')
 
 import urllib.request
 import json
